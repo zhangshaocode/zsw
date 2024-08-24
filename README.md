@@ -1,10 +1,10 @@
 <style>
-.center-image {
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%; /* You can adjust the width as needed */
-        }
+            .center-image {
+                        display: block;
+                        margin-left: auto;
+                        margin-right: auto;
+                        width: 50%; /* You can adjust the width as needed */
+                    }
 </style>
 <div class="container">
   <img src="img/logo.jpg" class="center-image">
