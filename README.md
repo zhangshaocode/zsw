@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" align="center">
   <img src="img/logo.jpg" style="display: block; margin-left: auto; margin-right: auto; width: 50%">
   <p>🎉🎉🎉🎉🎉🎉🎉WELCOME ZS WORKSPACE🎉🎉🎉🎉🎉🎉🎉</p>
   <p>🌹我们是ZS WORKSPACE！如您在旧版宣传页“加入我们”按钮中跳转至此页，请您发送申请函至zhangshaoworkspace@163.com！当然，浏览用户如果也想加入，额可以发送🌹</p>
